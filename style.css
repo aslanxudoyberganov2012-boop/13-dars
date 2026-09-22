@@ -1,0 +1,52 @@
+.box{
+    width: 400px;
+    height: 750px;
+    background-color: black;
+    margin: auto;
+    padding-top: 50px;
+    border-radius: 30px;
+}
+.red{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    border: 4px solid green;
+    border-radius: 100%;
+    margin: auto;
+    
+
+}
+.yellow{
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+    border: 4px solid green;
+    border-radius: 100%;
+     margin: auto;
+     margin-top: 30px;
+}
+.green{
+    width: 200px;
+    height: 200px;
+    background-color: green;
+    border: 4px solid green;
+    border-radius: 100%;
+     margin: auto;
+     margin-top: 30px;
+}
+.tayoq{
+    width: 100px;
+    height: 450px;
+    background-color: black;
+    margin:auto
+}
+h1{
+    background-color: blue;
+    color: white;
+    margin: auto;
+    width: 350px;
+    height: 70px;
+    text-align: center;
+    font-size: 55px;
+    border-radius: 20px;
+}
